@@ -1,20 +1,20 @@
 <!-- TITLE -->
 <div align="center">
   <h1><span style="font-size:34px;"><strong>Michael Ames</strong></span></h1>
-  <h2><span style="font-size:20px;">🛡️ Security Analyst • SOC | Threat Hunting | Vulnerability Management</span></h2>
+  <h2><span style="font-size:20px;">🛡️ Cybersecurity Analyst • 🧭 Threat Hunting • 🛠️ Vulnerability Management</span></h2>
 </div>
 
 <br>
 
-<!-- INTRO -->
-<h2><span style="font-size:22px;"><strong>About</strong></span></h2>
+<!-- ABOUT -->
+<h2><span style="font-size:22px;"><strong>✨ About</strong></span></h2>
 
-I’m a Security Analyst focusing on SOC operations, SIEM analysis, and vulnerability management across different environments. I work primarily with Azure, Splunk, Microsoft Sentinel, and Tenable.
+I’m a Cybersecurity Analyst focusing on SOC operations, SIEM analysis, host-based investigations, and vulnerability management across Windows, Linux, and cloud environments. I work primarily with Splunk, Microsoft Sentinel, Sysmon, and Tenable.
 
 <br>
 
 <!-- SKILLS -->
-<h2><span style="font-size:22px;"><strong>Skills</strong></span></h2>
+<h2><span style="font-size:22px;"><strong>🧰 Skills</strong></span></h2>
 
 - **SIEM:** Splunk, Microsoft Sentinel  
 - **Host Logging:** Sysmon, Windows Event Logs, Linux (auth.log, syslog)  
@@ -26,24 +26,26 @@ I’m a Security Analyst focusing on SOC operations, SIEM analysis, and vulnerab
 <br>
 
 <!-- PROJECTS -->
-<h2><span style="font-size:22px;"><strong>Projects</strong></span></h2>
+<h2><span style="font-size:22px;"><strong>📁 Projects</strong></span></h2>
 
-- **Splunk SOC Detection Lab** — Multi-host environment (Windows + Linux + Sysmon) with dashboards for authentication, process anomalies, and endpoint telemetry analysis.  
-- **Microsoft Sentinel Hunting & Detection Work** — KQL hunting queries, alert logic, logon anomaly detection, Azure AD investigation.  
-- **Tenable Vulnerability Management Workflows** — Prioritization using CVSS/EPSS, STIG checks, reporting for Windows & Linux systems.
+- **[Splunk SOC Detection Lab]()** — Multi-host environment (Windows + Linux) with dashboard for authentication.  
+- **[Microsoft Sentinel Hunting & Detection Work]()** — KQL hunting queries, alert logic, logon anomaly detection, Azure AD investigation.  
+- **[Tenable Vulnerability Management Workflows]()** — Prioritization using CVSS/EPSS, STIG checks, reporting for Windows & Linux systems.
 
 <br>
 
-<!-- CONTACT -->
-<h2><span style="font-size:22px;"><strong>Connect</strong></span></h2>
+<!-- CONNECT -->
+<h2><span style="font-size:22px;"><strong>🔗 Connect</strong></span></h2>
 
-<div>
-  <a href="https://linkedin.com/in/ames-m" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="30px" />
+<p>
+<!-- Square LinkedIn Icon -->
+  <a href="https://linkedin.com/in/ames-m" style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:ames.mmi8@gmail.com">
+  <!-- Email Icon -->
+  <a href="mailto:ames.mmi8@gmail.com" style="display:inline-block;">
     <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="30px" />
-  </a>
-</div>
+  </a>&#8203;
+</p>
 
