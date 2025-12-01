@@ -28,9 +28,9 @@ I’m a Cybersecurity Analyst focusing on SOC operations, SIEM analysis, host-ba
 <!-- PROJECTS -->
 <h2><span style="font-size:22px;"><strong>📁 Projects</strong></span></h2>
 
-- **[Splunk SOC Detection Lab]()** — Multi-host environment (Windows + Linux) with dashboard for authentication.  
-- **[Microsoft Sentinel Hunting & Detection Work]()** — KQL hunting queries, alert logic, logon anomaly detection, Azure AD investigation.  
-- **[Tenable Vulnerability Management Workflows]()** — Prioritization using CVSS/EPSS, STIG checks, reporting for Windows & Linux systems.
+- **[Splunk Brute Force Incident](https://github.com/michaelames8/splunk-brute-force-incident#splunk-brute-force-incident)** — Multi-host environment (Windows + Linux) with dashboard for authentication.  
+- **[Microsoft Sentinel Hunting & Detection Work](https://github.com/michaelames8/threat-hunting-tor#threat-hunting-tor)** — KQL hunting queries, alert logic, logon anomaly detection, Azure AD investigation.  
+- **[Tenable Vulnerability Management Workflows](https://github.com/michaelames8/vulnerability-management#vulnerability-management)** — Prioritization using CVSS/EPSS, STIG checks, reporting for Windows & Linux systems.
 
 <br>
 
