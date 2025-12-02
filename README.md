@@ -40,12 +40,12 @@ I’m a Cybersecurity Analyst focusing on SOC operations, SIEM analysis, host-ba
 <p>
 <!-- Square LinkedIn Icon -->
   <a href="https://linkedin.com/in/ames-m" style="display:inline-block; margin-right:20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30px" style="filter: brightness(1.2);" />
   </a>
   &nbsp;&nbsp;
   <!-- Email Icon -->
   <a href="mailto:ames.mmi8@gmail.com" style="display:inline-block;">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="30px" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="30px" style="filter: brightness(1.2);" />
   </a>&#8203;
 </p>
 
