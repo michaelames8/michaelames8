@@ -39,13 +39,13 @@ I’m a Cybersecurity Analyst focusing on SOC operations, SIEM analysis, host-ba
 
 <p>
 <!-- Square LinkedIn Icon -->
-  <a href="https://linkedin.com/in/ames-m" style="display:inline-block; margin-right:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30px" style="filter: brightness(1.2);" />
+ <a href="https://linkedin.com/in/ames-m" style="margin-right:20px; display:inline-block;">
+    <img src="https://raw.githubusercontent.com/michaelames8/icons/main/linkedin.png" width="30" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <!-- Email Icon -->
   <a href="mailto:ames.mmi8@gmail.com" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="30px" style="filter: brightness(1.2);" />
+    <img src="https://raw.githubusercontent.com/michaelames8/icons/main/email.png" width="30" alt="Email" />
   </a>&#8203;
 </p>
 
