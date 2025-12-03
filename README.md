@@ -1,7 +1,7 @@
 <!-- TITLE -->
 <div align="center">
   <h1><span style="font-size:34px;"><strong>Michael Ames</strong></span></h1>
-  <h2><span style="font-size:20px;">🛡️ Cybersecurity Analyst • 🧭 Threat Hunting • 🛠️ Vulnerability Management</span></h2>
+  <h2><span style="font-size:20px;">🛡️ Cybersecurity Analyst • 📡 Threat Monitoring • 🛠️ Vulnerability Management</span></h2>
 </div>
 
 <br>
@@ -9,7 +9,7 @@
 <!-- ABOUT -->
 <h2><span style="font-size:22px;"><strong>✨ About</strong></span></h2>
 
-I’m a Cybersecurity Analyst focusing on SOC operations, SIEM analysis, host-based investigations, and vulnerability management across Windows, Linux, and cloud environments. I work primarily with Splunk, Microsoft Sentinel, Sysmon, and Tenable.
+I’m a Cybersecurity Analyst focusing on SOC operations, SIEM analysis, and vulnerability management across Windows, Linux, and cloud environments. I work primarily with Splunk, Microsoft Sentinel, and Tenable.
 
 <br>
 
@@ -17,7 +17,6 @@ I’m a Cybersecurity Analyst focusing on SOC operations, SIEM analysis, host-ba
 <h2><span style="font-size:22px;"><strong>🧰 Skills</strong></span></h2>
 
 - **SIEM:** Splunk, Microsoft Sentinel  
-- **Host Logging:** Sysmon, Windows Event Logs, Linux (auth.log, syslog)  
 - **Threat Analysis:** MITRE ATT&CK mapping, event correlation, suspicious activity investigation  
 - **Vulnerability Management:** Tenable VM, CVSS, EPSS, STIG alignment  
 - **Platforms:** Windows 11, Windows Server, Ubuntu Linux  
@@ -37,15 +36,7 @@ I’m a Cybersecurity Analyst focusing on SOC operations, SIEM analysis, host-ba
 <!-- CONNECT -->
 <h2><span style="font-size:22px;"><strong>🔗 Connect</strong></span></h2>
 
-<p>
 <!-- Square LinkedIn Icon -->
- <a href="https://linkedin.com/in/ames-m" style="margin-right:20px; display:inline-block;">
-    <img src="https://raw.githubusercontent.com/michaelames8/icons/main/linkedin.png" width="30" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- Email Icon -->
-  <a href="mailto:ames.mmi8@gmail.com" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/michaelames8/icons/main/email.png" width="30" alt="Email" />
-  </a>&#8203;
-</p>
+[![LinkedIn](https://github.com/michaelames8/icons/blob/42a3dec5473b35bbb06a202b0701086daecd3e3a/linkedin_30.png)](https://linkedin.com/in/ames-m) &nbsp;&nbsp;&nbsp;[![Email](https://github.com/michaelames8/icons/blob/42a3dec5473b35bbb06a202b0701086daecd3e3a/email_30.png)](mailto:ames.mmi8@gmail.com)
+
 
