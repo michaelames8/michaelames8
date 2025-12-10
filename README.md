@@ -9,7 +9,7 @@
 <!-- ABOUT -->
 <h2><span style="font-size:22px;"><strong>✨ About</strong></span></h2>
 
-I’m a Cybersecurity Analyst focusing on SOC operations, SIEM analysis, and vulnerability management across Windows, Linux, and cloud environments. I work primarily with Splunk, Microsoft Sentinel, and Tenable.
+I’m a Cybersecurity Analyst focusing on SOC operations, SIEM analysis, and vulnerability management across Windows, Linux, and cloud environments. I work primarily with Splunk, Microsoft Defender, and Tenable.
 
 <br>
 
